@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:noNamespaceSchemaLocation="urn:magento:framework:ObjectManager/etc/config.xsd">
+    <preference for="Bikal\CalculatorWebService\Api\CalculatorInterface" type="Bikal\CalculatorWebService\Model\Calculator" />
+    <preference for="Bikal\CalculatorWebService\Api\Data\NumbersInterface" type="Bikal\CalculatorWebService\Model\Data\Numbers"/>
+    <preference for="Bikal\CalculatorWebService\Api\Data\NumberInterface" type="Bikal\CalculatorWebService\Model\Data\Number"/>
+</config>

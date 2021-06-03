@@ -1,0 +1,10 @@
+{
+    "name": "bikal/calculator-web-service",
+    "authors": [
+        {
+            "name": "bikal",
+            "email": "null@null.com"
+        }
+    ],
+    "require": {}
+}
